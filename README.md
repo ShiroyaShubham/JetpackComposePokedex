@@ -10,10 +10,10 @@ This is a simple Pokedex app built with Jetpack Compose, displaying a list of Po
 ## Screenshots
 
 <div align="center">
-  <img src="Screenshots/PokemonList" width="250" alt="Screenshot 1" style="margin-right: 20px;">
-  <img src="Screenshots/SearhScreen.jpeg" width="250" alt="Screenshot 2" style="margin-right: 20px;">
-  <img src="Screenshots/PokemonDetail.jpeg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
-  <img src="Screenshots/PokemonDetail2.jpeg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
+  <img src="Screenshot/PokemonList" width="250" alt="Screenshot 1" style="margin-right: 20px;">
+  <img src="Screenshot/SearhScreen.jpeg" width="250" alt="Screenshot 2" style="margin-right: 20px;">
+  <img src="Screenshot/PokemonDetail.jpeg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
+  <img src="Screenshot/PokemonDetail2.jpeg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
 </div>
 
 
